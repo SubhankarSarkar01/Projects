@@ -92,7 +92,7 @@ nav button{
 .btn-red{
     background-color: red;
     color: white;
-    padding: 3px 24px;
+    padding: 10px 15px;
     font-size: 20px;
     border-radius: 4px;
     font-weight: 400;
@@ -107,6 +107,17 @@ nav button{
     font-weight: bold;
     margin-left: 6px;
 }
+.hero-buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
 .main input{
-    padding: 20px;
+    padding: 14px 120px 14px 10px;
+    font-weight: 500;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: rgba(128, 128, 128, 0.7);
+    border: 1px solid rgba(165, 163, 163, 0.863);
 }
