@@ -92,10 +92,10 @@ nav button{
 .btn-red{
     background-color: red;
     color: white;
-    padding: 10px 15px;
-    font-size: 20px;
+    padding: 13px 15px;
+    font-size: 17px;
     border-radius: 4px;
-    font-weight: 400;
+    font-weight: 600;
     cursor: pointer;
     
 }
@@ -115,9 +115,10 @@ nav button{
 }
 .main input{
     padding: 14px 120px 14px 10px;
+    color: white;
     font-weight: 500;
     font-size: 14px;
     border-radius: 4px;
-    background-color: rgba(128, 128, 128, 0.7);
+    background-color: rgba(22, 22, 22, 0.7);
     border: 1px solid rgba(165, 163, 163, 0.863);
 }
