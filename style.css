@@ -24,7 +24,7 @@ body{
     position: absolute;
 }
 nav{
-    max-width: 95vw;
+    max-width: 85vw;
     margin:auto;
     display: flex;
     justify-content: space-between;
@@ -75,16 +75,38 @@ nav button{
     bottom: 0;
 }
 .btn{
-    padding: 8px 30px;
+    padding: 4px 24px;
     font-weight: 500;
     font-size: 16px;
     background-color: transparent;
     color: white;
     border: 0.5px solid #5b5a5a;
     border-radius: 3px;
+    cursor: pointer;
 }
 .img2{
     position: relative;
     z-index: 10;
-    margin: 0px 5px ;
+    margin: 0px 2px ;
+}
+.btn-red{
+    background-color: red;
+    color: white;
+    padding: 3px 24px;
+    font-size: 20px;
+    border-radius: 4px;
+    font-weight: 400;
+    cursor: pointer;
+    
+}
+.btn-red-sm{
+    background-color: red;
+    color: white;
+    padding: 6px 13px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 6px;
+}
+.main input{
+    padding: 20px;
 }
