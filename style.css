@@ -150,6 +150,7 @@ nav button{
 .first > div :first-child{
     font-size: 48px;
     font-weight: bolder;
+    
 }
 .first > div :nth-child(2){
     font-size: 18px;
