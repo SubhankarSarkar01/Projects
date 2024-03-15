@@ -184,3 +184,16 @@ nav button{
     justify-content: space-between;
     cursor: pointer;
 }
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+footer{
+    color: white;
+    max-width: 60vw;
+    margin: auto;
+    padding: 14px;
+}
+footer .questions{
+    padding: 24px 0;
+}
