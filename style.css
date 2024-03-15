@@ -192,8 +192,17 @@ footer{
     color: white;
     max-width: 60vw;
     margin: auto;
-    padding: 14px;
+    padding: 34px;
 }
 footer .questions{
     padding: 24px 0;
+}
+.footer a{
+    font-size: 14px;
+    color: white;
+}
+.footer-item{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
